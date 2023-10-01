@@ -6,7 +6,7 @@ public class Main {
         Scanner in = new Scanner(System.in);
         in.useLocale(Locale.US);
         double x = in.nextDouble();
-        boolean res = 3 <= x && x <= 8;
+        boolean res = 100 <= x && x <= 999 && x % 5 == 0;
         System.out.println(res);
     }
 }
