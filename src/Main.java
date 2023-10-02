@@ -14,7 +14,7 @@ public class Main {
             }
         else {
             if (x >= x1) System.out.println(x1 + " " + x + " " + x2);
-            else System.out.println(x + " " + x1 + " " + x2);
+            else System.out.println(x + " " + x + " " + x2);
             }
         }
     }
