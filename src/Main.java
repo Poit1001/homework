@@ -3,18 +3,10 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int x = in.nextInt(), x1 = in.nextInt(), x2 = in.nextInt();
-        if (x >= x1 && x >= x2) {
-            if (x1>=x2) System.out.println(x2 + " " + x1 + " " + x);
-            else System.out.println(x1 + " " + x2 + " " + x);
-            }
-        else if (x1 >= x && x1 >= x2) {
-            if (x >= x2) System.out.println(x2 + " " + x + " " + x1);
-            else System.out.println(x + " " + x2 + " " + x1);
-            }
-        else {
-            if (x >= x1) System.out.println(x1 + " " + x + " " + x2);
-            else System.out.println(x + " " + x1 + " " + x2);
-            }
-        }
+        int x = in.nextInt();
+        if (x % 10 == 1 && x % 100 != 11) System.out.println(x + " TORT");
+        else if (5 <= x % 100 && x % 100 <= 20) System.out.println(x + " TORTOV");
+        else if (x % 10 >= 2 && x % 10 <= 4) System.out.println(x + " TORTA");
+        else if (x % 10 == 0 || x % 10 >= 5 || x % 100 == 11) System.out.println(x + " TORTOV");
     }
+}
