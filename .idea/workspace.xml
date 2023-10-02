@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="330db3c2-52bc-4ebe-b28d-cef5e911d186" name="Changes" comment="" />
+    <list default="true" id="330db3c2-52bc-4ebe-b28d-cef5e911d186" name="Changes" comment="new hw">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6.2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2WAVPkCHV1Ys7g8KMziBTjh7NGw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -23,7 +34,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "6.3",
     "onboarding.tips.debug.path": "C:/Users/rperfilov/IdeaProjects/homework/src/Main.java"
   }
 }]]></component>
@@ -36,17 +47,118 @@
       <option name="presentableId" value="Default" />
       <updated>1696175350450</updated>
     </task>
+    <task id="LOCAL-00001" summary="new hw">
+      <option name="closed" value="true" />
+      <created>1696175450231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696175450231</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new hw">
+      <option name="closed" value="true" />
+      <created>1696175587771</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696175587771</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new hw">
+      <option name="closed" value="true" />
+      <created>1696175657202</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696175657202</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new hw">
+      <option name="closed" value="true" />
+      <created>1696175791191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696175791191</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new hw">
+      <option name="closed" value="true" />
+      <created>1696177405660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696177405660</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new hw">
+      <option name="closed" value="true" />
+      <created>1696178044160</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696178044160</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new hw">
+      <option name="closed" value="true" />
+      <created>1696178482096</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696178482096</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new hw">
+      <option name="closed" value="true" />
+      <created>1696265652660</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696265652660</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new hw">
+      <option name="closed" value="true" />
+      <created>1696267416553</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696267416553</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new hw">
+      <option name="closed" value="true" />
+      <created>1696267469377</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696267469377</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new hw">
+      <option name="closed" value="true" />
+      <created>1696267510919</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696267510919</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new hw">
+      <option name="closed" value="true" />
+      <created>1696267524312</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696267524312</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new hw" />
+    <option name="LAST_COMMIT_MESSAGE" value="new hw" />
   </component>
 </project>
